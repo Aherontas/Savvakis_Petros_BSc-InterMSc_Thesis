@@ -5,8 +5,7 @@ My BSc-Integrated MSc Thesis about:
 **Design and Development of a Digital Twin of an Electric Vehicle’s Batteries
 **
 
-The purpose of this thesis is the design and development of a digital twin of an
-electric vehicle’s and specifically with lithium ion energy storage cells.
+The purpose of this thesis is the design and development of a digital twin for an electric vehicle's energy storage system, specifically using lithium-ion batteries.
 Specifically, a system will be designed which will measure voltage, current and
 temperature of the cells and the battery pack.
 Upon taking the measurements, a decision will be made by the integrated system
