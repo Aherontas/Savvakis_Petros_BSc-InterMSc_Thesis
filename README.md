@@ -15,3 +15,5 @@ a digital twin of the system will be created. In addition, we will be able to vi
 the data we have collected in a real time UI.
 Finally, the digital battery management model will improve with the collection
 and storage of data in the cloud and will upgrade over time the physical model.
+
+Can be found in: https://polynoe.lib.uniwa.gr/xmlui/handle/11400/995
