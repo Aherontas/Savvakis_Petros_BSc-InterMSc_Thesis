@@ -1,4 +1,4 @@
-# Savvakis_Petros_BSc-InterMsc_Thesis
+# Savvakis_Petros_BSc-InterMSc_Thesis
 
 My BSc-Integrated MSc Thesis about: 
 
